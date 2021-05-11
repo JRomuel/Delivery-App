@@ -11,7 +11,7 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="hero-content-wrapper">
-              <h2 class="mb-3">Hi there, I&rsquo;m Romuel</h2>
+              <h2 class="mb-3">Hi there, I&rsquo;m Romuel test</h2>
               <h4 class="mb-3">Web Developer</h4>
               <p>Web designer and developer from Manila, Philippines. I create custom websites to help businesses do better online.</p>
                 <a href="mailto:johnromuelmendoza@yahoo.com" class="button button-lg radius-50">Say Hello</a>
